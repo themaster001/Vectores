@@ -10,7 +10,7 @@ namespace AppVectores
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("xxx");
+            Console.WriteLine("ggg");
         }
     }
 }
